@@ -1,4 +1,5 @@
-This program draws the Github's contribution activity calendar randomly and save it to a PNG file.
+This program draws the Github's contribution activity calendar randomly and save it to a PNG file.  
+![output](https://github.com/mostafa-asg/git-cont-act/blob/main/sample/output.png)
 
 ### How to run
 ```
